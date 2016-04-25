@@ -67,7 +67,7 @@ $('#all').click(function() {
 		$(".onlineStreamer").show();
 	$(".offlineStreamer").show();
 });
-	
+
 
 $('#online').click(function() {
 
